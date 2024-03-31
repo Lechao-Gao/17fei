@@ -14,7 +14,7 @@ export default function About() {
                     <div>
                         <span class="line-through">99</span>49元开通终身会员
                     </div>
-                    <div>支付后添加微信[ wbot10 ] 1~12小时内响应</div>
+                    <div>1~12小时内响应</div>
                     <div class="mt-4">
                         如需其他定制开发， 欢迎联系合作。
                         <a href="/custom" class="underline">如何制作一个相同的网站赚钱</a>
